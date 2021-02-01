@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/projetoInicial.dir/main.c.o CMakeFiles/projetoInicial.dir/estado.c.o  -o projetoInicial 
